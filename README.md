@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lpaggen
-- 👀 I’m interested in data analytics, programming
-- 🌱 I’m currently learning Python, SQL, R, as part of my preparation for my Data Science masters
+- Data Science Masters Student
 - 📫 How to reach me : lpaggen@gmail.com / l.paggen@student.maastrichtuniversity.nl
 
 <!---
