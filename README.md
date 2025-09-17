@@ -1,5 +1,4 @@
-- Data Science Masters Student
-- 📫 How to reach me : lpaggen@gmail.com / l.paggen@student.maastrichtuniversity.nl
+I like to program 
 
 <!---
 lpaggen/lpaggen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
